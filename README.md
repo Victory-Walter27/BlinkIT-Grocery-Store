@@ -1,15 +1,11 @@
 # MS Excel- BlinkIT Grocery Store
 
 ## Previews
-This repository contains a MS Excel interactive dashboard  showing trends and patterns of the customer satisfaction, sales performance and opportuinties in the BlinkIT Grocery Store with the use of KPIs, charts to evaluate their sales performance,
+This repository contains a MS Excel interactive dashboard  showing trends and patterns of the customer satisfaction, sales performance and opportuinties in the BlinkIT Grocery Store with the use of KPIs, charts to evaluate their sales performance.
 
 
 ![Screenshot 2024-11-19 183309](https://github.com/user-attachments/assets/742d56f8-b59a-4df7-b80e-e975162af5e7)
-
-
-**Data Source**
----
-**BlinkIT**- This dataset contains  
+  
 
 **GOALS**
 - **Evaluate Sales Performance** - Assess total sales, revenue generated and quantities sold
@@ -22,9 +18,19 @@ This repository contains a MS Excel interactive dashboard  showing trends and pa
 - Number of items Sold- The total count of different items sold
 - Average Rating- The average customer rating per item sold.
 
-**Chart Requirement**
----
 **Data Analysis**
 ---
 - Data Cleaning - Data formating, replacing and removing regularities.
 - Data visualizatin - the use of charts, metrics, the use of filters.
+
+**Insights**
+  ---
+ - Friuts and Vegetables generated the highest sales over time compared to Sea Food.
+ - For the fat content, Regular Fat sold the highest with a 65% cmpared to the Low fat of 35%
+ - For the outlet location, Tier 3 had the highest sales over time
+ - 2018 had rhe hihhest sales wirh 204.5k.
+ - Average rating per customer's satisfaction was 4,0 which is good
+   
+
+
+
