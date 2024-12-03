@@ -27,4 +27,4 @@ This repository contains a MS Excel interactive dashboard  showing trends and pa
 **Data Analysis**
 ---
 - Data Cleaning - Data formating, replacing and removing regularities.
-- 
+- Data visualizatin - the use of charts, metrics, the use of filters.
