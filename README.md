@@ -31,6 +31,9 @@ This repository contains a MS Excel interactive dashboard  showing trends and pa
  - 2018 had rhe hihhest sales wirh 204.5k.
  - Average rating per customer's satisfaction was 4,0 which is good
    
-
-
+**Technical Stack**
+---
+- MS Excel- Data cleaning, data formating, remove irreguak
+  lities
+- MS Excel- Use chats and graphs to bild an intreative dashboard
 
