@@ -1,4 +1,4 @@
-# MS Excel- BlinkIT Grocery Store
+# BlinkIT Grocery Store
 
 ## Previews
 This repository contains a MS Excel interactive dashboard  showing trends and patterns of the customer satisfaction, sales performance and opportuinties in the BlinkIT Grocery Store with the use of KPIs, charts to evaluate their sales performance, montior sales trend and understand customer behaviour.
@@ -143,11 +143,11 @@ EDA included exploring the dataset to find meaning to the following:
 
 ---
  
-**Technical Stack**
+**TOOLS**
 ---
 - MS Excel- Data cleaning, data formating, remove irregualities
 - MS Excel- Use chats and graphs to bild an intreative dashboard
-- Data Cleaning - Data formating, replacing and removing regularities.
-- Data visualizatin - the use of charts, metrics, the use of filters.
+- MS EXCEL - Data formating, replacing and removing regularities.
+- MS EXCEL - the use of charts, metrics, the use of filters.
 
 ---
